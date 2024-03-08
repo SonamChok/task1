@@ -8,7 +8,7 @@ books_list.append("Python Programming")
 authors_set.add("John Smith")
 books_dict["Python Programming"]="John Smth"
 
-books_list.append("Data Structures and Alogorithms")
+books_list.append("Data Structures and Algorithms")
 authors_set.add("Jane Doe")
 books_dict["Data Structures and Algorithms"]="Jane Doe"
 
